@@ -20,11 +20,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/git_user_id/git_repo_id.git"
+      "url": "https://github.com/AlboCode/ccat-php-client.git"
     }
   ],
   "require": {
-    "git_user_id/git_repo_id": "*@dev"
+    "albocode/ccat-php-client": "*@dev"
   }
 }
 ```
